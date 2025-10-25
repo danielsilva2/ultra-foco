@@ -1,0 +1,69 @@
+Ótima ideia! Um site profissional é o ponto focal para atrair marketplaces e grandes vendedores.
+
+Com o nome **Ultra Foco**, o logotipo minimalista e a Missão, Visão e Valores definidos, podemos estruturar um site que comunica autoridade, tecnologia e resultados.
+
+O foco deve ser **B2B (Business-to-Business)**, enfatizando o aumento da conversão e a eficiência da IA.
+
+---
+
+## 💻 Estrutura e Conteúdo do Website da Ultra Foco
+
+### I. Home Page (Página Inicial)
+
+O objetivo é capturar a atenção com a proposta de valor e encaminhar o usuário para uma demonstração.
+
+| Seção | Conteúdo Chave | Foco/Mensagem Principal |
+| :--- | :--- | :--- |
+| **Hero Section** | **Título Impactante (H1):** Aumente suas Vendas com Imagens Ultra Focadas por IA. **Subtítulo:** A tecnologia que transforma fotos comuns em ativos visuais de alta conversão para o seu marketplace. | **Chamada à Ação (CTA) Principal:** **"Solicitar Demonstração Gratuita"** |
+| **Prova do Conceito** | **Recurso Visual:** Imagem interativa *Antes e Depois* que mostra o aprimoramento em tempo real (ex: uma foto real do Mercado Livre vs. a mesma foto processada pela Ultra Foco). | **Mostre, Não Apenas Diga:** Demonstração instantânea da qualidade e do poder da IA. |
+| **O Problema (e a Solução)** | **Problema:** "Fotos de baixa qualidade custam vendas." **Solução:** "Nossa IA resolve nitidez, iluminação e ruído em escala, garantindo que todo anúncio tenha qualidade Premium." | **Conecte a dor do cliente (baixa conversão) à sua solução.** |
+| **Quem Confiou (Testemunhos)** | Logos dos parceiros ou depoimentos de grandes clientes (Webmotors, OLX, etc., se hipotéticos: "Líderes em Venda Digital Confiam na Ultra Foco"). | **Autoridade e Credibilidade B2B.** |
+
+### II. Página "A Solução (Como Funciona)"
+
+Detalha a tecnologia e o processo de integração (B2B).
+
+* **Título:** Tecnologia Visual de Alto Desempenho
+* **Seções:**
+    1.  **Tecnologia Deep Enhance:** Explicação concisa da IA (Deep Learning/Visão Computacional) que corrige automaticamente imperfeições (iluminação, fundo, ruído, etc.).
+    2.  **Integração Simples e Rápida:** Apresentação do processo (API) para que o marketplace ou a plataforma de classificados se conecte à Ultra Foco (ex: "Em menos de 48 horas, milhões de imagens otimizadas").
+    3.  **Escala Inigualável:** Destaque para a capacidade de processar milhões de imagens por dia com consistência e agilidade.
+* **CTA Secundário:** **"Ver Documentação da API"** (Para o público técnico).
+
+### III. Página "Resultados e Cases"
+
+Focada em dados, números e o retorno sobre o investimento (ROI).
+
+* **Título:** Otimização Visual = Conversão Máxima
+* **Métricas Chave (Destaques):**
+    * **+X% Aumento do CTR (Taxa de Cliques):** *Imagens de alta qualidade atraem mais cliques.*
+    * **-Y% Taxa de Devolução:** *Maior clareza reduz a insatisfação do cliente.*
+    * **Z% Redução no Custo de Aquisição (CAC):** *Otimização que custa menos que fotografia tradicional.*
+* **Case Studies:** Exemplos reais (ou ilustrativos) que mostram a jornada de um marketplace antes e depois da Ultra Foco.
+* **CTA:** **"Baixar Estudo de Caso Completo"**
+
+### IV. Página "Empresa (Sobre Nós)"
+
+Espaço para a identidade e cultura da Ultra Foco.
+
+* **Nossa História:** Breve resumo sobre a fundação e a visão por trás da **Ultra Foco**.
+* **Nossa Missão, Visão e Valores (Resumidos):** Use as definições que criamos para reforçar o propósito da empresa.
+    * **Missão:** Capacitar vendas com IA e visuais de alto impacto.
+    * **Visão:** Ser líder global em otimização visual para e-commerce.
+    * **Valores:** Inovação, Excelência Visual, Parceria e Eficiência.
+* **Equipe:** Apresentação do time de fundadores e engenheiros de IA (transmite confiança técnica).
+
+### V. Página "Contato"
+
+Canais claros para o contato B2B.
+
+* **Formulário:** Simples, solicitando Nome, E-mail, Empresa e Cargo.
+* **Campo Mensagem:** "Qual marketplace/plataforma você representa?"
+* **Endereço e Contatos:** E-mail de vendas e suporte.
+* **CTA:** **"Fale com nosso time de Parcerias"**
+
+---
+
+Com esta estrutura, o site da Ultra Foco será claro, focado em resultados (conversão) e posicionado como uma solução de tecnologia B2B essencial para marketplaces.
+
+Gostaria de desenvolver agora um **Slogan** matador para ser usado na Home Page?
